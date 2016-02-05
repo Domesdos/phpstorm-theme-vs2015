@@ -1,2 +1,10 @@
 # phpstorm-theme-vs2015
 Color theme for PHPStorm 10 - inspired by Visual Studio 2015
+
+Its not 100% identical to all of Visual Studio's colors but it uses the same color scheme.
+It might work on older PHPStorm versions but for now is only tested on PHPStorm 10
+
+## Installation for PHPStorm 10 on Windows
+* Go to `C:\Users\%USERNAME%\.WebIde100\config\colors` and place the `VS 2015 dark.icls` file there.
+* If the colors folder doesnt exist you can simply create one.
+* Start your PHPStorm, click View->Quick Switch Scheme->Color Scheme and select VS 2015 dark
