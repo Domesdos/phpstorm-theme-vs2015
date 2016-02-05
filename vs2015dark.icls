@@ -1,4 +1,4 @@
-<scheme name="VS 2015 dark" version="142" parent_scheme="Darcula">
+<scheme name="vs2015dark" version="142" parent_scheme="Darcula">
   <option name="LINE_SPACING" value="1.1" />
   <option name="EDITOR_FONT_SIZE" value="13" />
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
